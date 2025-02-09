@@ -4,7 +4,7 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 
 ---
 
-### 💻 Computer Science
+### 💻 Computer Science && Programmer
 - [Expert Computer Scientist](Computer%20Scientist/Expert%20Computer%20Scientist)
 - [Expert C++ optimize code](Computer%20Scientist/Expert%20C++%20optimize%20code)
 - [Expert C++ GPU code](Computer%20Scientist/Expert%20C++%20GPU%20code)

@@ -36,7 +36,8 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 ## 📊 Business 
 - [Expert Business Analysis](Business/Expert%20Business%20Analysis)
 
-
+## 🖌️ Designer
+- [Creative thinking](Designer/Creative%20thinking)
 
 
 

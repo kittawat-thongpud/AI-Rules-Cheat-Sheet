@@ -10,7 +10,7 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 - [Expert C++ GPU code](Computer%20Scientist/Expert%20C++%20GPU%20code)
 - [Expert C++ hashmap code](Computer%20Scientist/Expert%20C++%20hashmap%20code)
 - [Expert C++ GPU Hashmap code](Computer%20Scientist/Expert%20C++%20GPU%20Hashmap%20code)
-
+- [Export data structure](Computer%20Scientist/Export%20data%20structure)
 
 ---
 

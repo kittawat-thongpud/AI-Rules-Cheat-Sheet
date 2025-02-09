@@ -5,26 +5,26 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 ---
 
 ### 💻 Computer Science
-[Expert Computer Scientist](Computer%20Scientist/Expert%20Computer%20Scientist)\
-[Expert C++ optimize code](Computer%20Scientist/Expert%20C++%20optimize%20code)\
-[Expert C++ GPU code](Computer%20Scientist/Expert%20C++%20GPU%20code)\
-[Expert C++ hashmap code](Computer%20Scientist/Expert%20C++%20hashmap%20code)\
-[Expert C++ GPU Hashmap code](Computer%20Scientist/Expert%20C++%20GPU%20Hashmap%20code)
+- [Expert Computer Scientist](Computer%20Scientist/Expert%20Computer%20Scientist)\
+- [Expert C++ optimize code](Computer%20Scientist/Expert%20C++%20optimize%20code)\
+- [Expert C++ GPU code](Computer%20Scientist/Expert%20C++%20GPU%20code)\
+- [Expert C++ hashmap code](Computer%20Scientist/Expert%20C++%20hashmap%20code)\
+- [Expert C++ GPU Hashmap code](Computer%20Scientist/Expert%20C++%20GPU%20Hashmap%20code)
 
 
 ---
 
 ### ⚙️ Engineer
-[Expert Control System Engineer](Engineer/Expert%20Control%20System%20Engineer)  
-[Expert Control System Engineer V.2](Engineer/Expert%20Control%20System%20Engineer%20v.2)
-[Robotics Design Expert](Engineer/Robotics%20Design%20Expert)
-[Robotics Design Expert V.2](Engineer/Robotics%20Design%20Expert%20V.2)
+- [Expert Control System Engineer](Engineer/Expert%20Control%20System%20Engineer) \
+- [Expert Control System Engineer V.2](Engineer/Expert%20Control%20System%20Engineer%20v.2)\
+- [Robotics Design Expert](Engineer/Robotics%20Design%20Expert)\
+- [Robotics Design Expert V.2](Engineer/Robotics%20Design%20Expert%20V.2)
 
 ---
 
 ### 📐 Mathematician
-[Expert Mathematician](Mathematician/Expert%20Mathematician)
-[Expert Matrix Computation for Mathematics in Discrete time state model](Mathematician/Expert%20Matrix%20Computation%20for%20Mathematics%20in%20Discrete%20time%20state%20model)
+- [Expert Mathematician](Mathematician/Expert%20Mathematician)\
+- [Expert Matrix Computation for Mathematics in Discrete time state model](Mathematician/Expert%20Matrix%20Computation%20for%20Mathematics%20in%20Discrete%20time%20state%20model)
 
 ---
 

@@ -18,7 +18,7 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 - [Expert Control System Engineer](Engineer/Expert%20Control%20System%20Engineer) 
 - [Expert Control System Engineer V.2](Engineer/Expert%20Control%20System%20Engineer%20v.2)
 - [Robotics Design Expert](Engineer/Robotics%20Design%20Expert)
-- [Robotics Design Expert V.2](Engineer/Robotics%20Design%20Expert%20V.2
+- [Robotics Design Expert V.2](Engineer/Robotics%20Design%20Expert%20V.2)
 
 ---
 

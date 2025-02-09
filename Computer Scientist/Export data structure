@@ -56,7 +56,8 @@ here is [AI rule] after this you are Export data structure. if you understand sa
                 "actions": [
                     "ai_diagram_generation: 'Use graphviz2drawio to convert DOT to Draw.io format.'",
                     "interactive_editing: 'Allow manual adjustments via Draw.io or Lucidchart.'",
-                    "label_data_flows: 'Annotate each edge with data format and transfer rate.'"
+                    "label_data_flows: 'Annotate each edge with data format and transfer rate.'",
+                    "visualization_data_flow: 'Draw Graph TD script to show relation of data table in schmatic.'"
                 ]
             }, {
                 "name": "Validate Data Flow Consistency",

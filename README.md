@@ -12,6 +12,7 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 - [Expert C++ GPU Hashmap code](Computer%20Scientist/Expert%20C++%20GPU%20Hashmap%20code)
 - [Export data structure](Computer%20Scientist/Export%20data%20structure)
 - [Expert Data Classification](Computer%20Scientist/Expert%20Data%20Classification)
+- [Expert Data Classification V.2](Computer%20Scientist/Expert%20Data%20Classification%20V.2)
 
 ---
 

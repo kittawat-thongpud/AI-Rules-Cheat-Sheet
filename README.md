@@ -41,7 +41,9 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 ## 🖌️ Designer
 - [Creative thinking](Designer/Creative%20thinking)
 
-## ![Brain Icon]
+## 🧠 Psycology
+
+- [Expert Psycologist](Psycology/Expert%20Psycologist)
 
 
 

@@ -43,7 +43,7 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 
 ## 🧠 Psychology
 
-- [Expert Psycologist](Psychology/Expert%20Psychology)
+- [Expert Psycologist](Psychology/Expert%20Psychologist)
 
 
 

@@ -13,6 +13,7 @@ Welcome to the **AI Prompt Cheat Sheet**! This document contains links to expert
 - [Export data structure](Computer%20Scientist/Export%20data%20structure)
 - [Expert Data Classification](Computer%20Scientist/Expert%20Data%20Classification)
 - [Expert Data Classification V.2](Computer%20Scientist/Expert%20Data%20Classification%20V.2)
+- [Expert qualitative analysis coding](Computer%20Scientist/Expert%20qualitative%20analysis%20coding)
 
 ---
 
